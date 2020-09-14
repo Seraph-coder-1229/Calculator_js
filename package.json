@@ -1,0 +1,29 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "Calculator in javascript. Day 1 of 100 days of code",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seraph-coder-1229/Calculator_js.git"
+  },
+  "keywords": [
+    "Calculator",
+    "#100DaysofCode"
+  ],
+  "author": "Seraph-coder-1229",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seraph-coder-1229/Calculator_js/issues"
+  },
+  "homepage": "https://github.com/Seraph-coder-1229/Calculator_js#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1",
+    "prettier": "2.1.1",
+    "prettier-config-standard": "^1.0.1"
+  }
+}
